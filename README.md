@@ -16,5 +16,4 @@ python timing.py
 
 ## result:
 ![](https://github.com/elvawyt/CheckOptStstus/blob/master/result.png)
-<img src="/https://github.com/elvawyt/CheckOptStstus/blob/master/result.png" alt=""
-	 width="150" height="100" />
+<img src="https://github.com/elvawyt/CheckOptStstus/blob/master/result.png" width="200" height="200" />
