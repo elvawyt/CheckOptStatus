@@ -3,7 +3,7 @@ from scrapy.http import FormRequest
 from ..items import CheckoptItem
 from pync import Notifier
 
-RECEIPT_NUMBER = 'YSC1990185662'
+RECEIPT_NUMBER = 'YSC1990XXXXXX'
 
 class QuotesSpider(scrapy.Spider):
     name = "quotes"
