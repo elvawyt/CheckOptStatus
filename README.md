@@ -15,5 +15,6 @@ Change frequency of notification in timing.py
 python timing.py
 
 ## result:
-![](https://github.com/elvawyt/CheckOptStstus/blob/master/result.png | width=100)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://github.com/elvawyt/CheckOptStstus/blob/master/result.png)
+<img src="/https://github.com/elvawyt/CheckOptStstus/blob/master/result.png" alt=""
+	 width="150" height="100" />
