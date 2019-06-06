@@ -1,4 +1,4 @@
-# CheckOptStstus
+# CheckOptStatus
 Check your OPT status every 5 hours.
 
 ## Need to install:
